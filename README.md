@@ -1,4 +1,4 @@
-# Laboratórios de Informática II: Projeto 
+# Laboratórios de Informática II
 
 - Adriana Frazão, AdrianaBot
 - Eduardo Reis, EdSolo221
